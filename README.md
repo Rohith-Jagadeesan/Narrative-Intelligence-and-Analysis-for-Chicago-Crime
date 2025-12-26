@@ -58,7 +58,7 @@ This project:
 - Enables better decision-making by linking crime patterns to real-world context
 - Demonstrates how **narrative intelligence** can make AI systems more transparent and socially useful
 
-The frontier of urban analytics is not higher accuracy alone—but **better communication of insights**.
+The frontier of urban analytics is not higher accuracy alone, but **better communication of insights**.
 
 
 ## Technologies Used
@@ -68,7 +68,3 @@ The frontier of urban analytics is not higher accuracy alone—but **better comm
 - Scikit-learn, XGBoost  
 - Google Gemini API  
 - Jupyter Notebook
-
-
-## License
-This project is released for academic and research use.
